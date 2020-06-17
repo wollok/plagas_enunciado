@@ -34,7 +34,7 @@ A su vez, los elementos se agrupan en **barrios**; en cada barrio hay varios ele
 
 ## Plagas
 Como ya indicamos, el propósito de este modelo es estudiar el _ataque_ de una plaga a un elemento.  
-Este modelo incluye **cuatro tipos de plaga**: de _cucarachas_, de _mosquitos_, de _pulgas_ y de _garrapatas.  
+Este modelo incluye **cuatro tipos de plaga**: de _cucarachas_, de _mosquitos_, de _pulgas_ y de _garrapatas_.  
 De cada plaga, sea del tipo que sea, se conoce la _población_, esto es, la cantidad de bichos que la integran.
 
 Está claro que puede haber varias plagas del mismo tipo, que pueden (o no) variar en la población: puede haber tres plagas de mosquitos dando vueltas, dos de 50 mosquitos cada uno y una de 70.
